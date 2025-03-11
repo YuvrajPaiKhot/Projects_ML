@@ -27,8 +27,8 @@ I have used one hot encoding to convert these values and establish a relationshi
 
 We have used LogisticRegression() function from sklearn to train the model and make predictions. Initial accuracy was 86%
 
-Then I had the idea of introducing a new feature, BMI into the dataset. (Feature Engineering)
-# BMI(Body Mass Index) = Weight(kg) / Height(m) ^ 2
+## Then I had the idea of introducing a new feature, BMI into the dataset. (Feature Engineering)
+### BMI(Body Mass Index) = Weight(kg) / Height(m) ^ 2
 
 After feature engineering, the accuracy score increased to 90%
 
