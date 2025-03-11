@@ -1,7 +1,7 @@
 # This is an obesity level prediction model created using multiclass classification
 
 ## The dataset contains the following columns :
-Gender – Male or Female.
+Gender – Male or Female.\n
 Age – The person’s age in years.
 Height – Height in meters.
 Weight – Weight in kilograms.
